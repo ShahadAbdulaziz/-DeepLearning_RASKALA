@@ -17,7 +17,9 @@ Seaborn  </br>
 sklearn  </br>
 Fastai  </br>
 Google Colab   </br>
+
 Hardware :  </br>
+
 Here is the hardware that will be initially uses in this project:  </br>
 Raspberry Pi 4  </br>
 Camera V2  </br>
