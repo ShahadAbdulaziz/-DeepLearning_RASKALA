@@ -1,4 +1,4 @@
-# DeepLearning_SmartTrashInSmartCity
+# Smart Trash In Smart City
 
  ## Introduction:
 
