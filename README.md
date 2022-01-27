@@ -1,4 +1,4 @@
-# Smart Trash In Smart City
+# RASKALA
 
  ## Introduction:
 
